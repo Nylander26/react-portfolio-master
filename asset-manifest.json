@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-master/static/css/main.bf7fbb9b.css",
+    "main.js": "/react-portfolio-master/static/js/main.98ca8621.js",
+    "static/media/www-amico (1).png": "/react-portfolio-master/static/media/www-amico (1).cf55cb8bac669a9c661d.png",
+    "static/media/Firmware-amico (2).png": "/react-portfolio-master/static/media/Firmware-amico (2).65c2e671de12ff271d45.png",
+    "static/media/CV Wolfgang.pdf": "/react-portfolio-master/static/media/CV Wolfgang.4bfc7b851d94467c7f90.pdf",
+    "index.html": "/react-portfolio-master/index.html",
+    "main.bf7fbb9b.css.map": "/react-portfolio-master/static/css/main.bf7fbb9b.css.map",
+    "main.98ca8621.js.map": "/react-portfolio-master/static/js/main.98ca8621.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf7fbb9b.css",
+    "static/js/main.98ca8621.js"
+  ]
+}
