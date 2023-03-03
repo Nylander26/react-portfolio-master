@@ -53,6 +53,17 @@ footer a{
     color: var(--color-bg);
 }
 
+.logo-img {
+    width: 20em;
+    border-radius: 20px;
+}
+
+.container-logo {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
 /*===================MEDIA QUERIES (SMALL DEVICES)================== */
 
 @media screen and (max-width: 600px){
