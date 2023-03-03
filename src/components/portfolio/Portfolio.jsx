@@ -4,6 +4,7 @@ import IMG1 from '../../assets/weather.jpg'
 import IMG2 from '../../assets/foro.png'
 import IMG3 from '../../assets/gestor_fotos.jpg'
 import IMG4 from '../../assets/conectax.png'
+import IMG5 from '../../assets/calculator.png'
 // import IMG5 from '../../assets/portfolio5.png'
 // import IMG6 from '../../assets/portfolio6.jpg'
 
@@ -26,9 +27,9 @@ const data = [
 	{
 		id: 3,
 		image: IMG3,
-		title: 'Gestor Fotos',
-		github: 'https://github.com/Nylander26/Gestor-fotos',
-		demo: ''
+		title: 'To Do List React',
+		github: 'https://github.com/Nylander26/to-do-list-react',
+		demo: 'https://nylander26.github.io/to-do-list-react/'
 	},
 	{
 		id: 4,
@@ -36,6 +37,13 @@ const data = [
 		title: 'Conecta X',
 		github: 'https://github.com/Nylander26/ConectaX',
 		demo: 'https://nylander26.github.io/ConectaX/'
+	},
+	{
+		id: 5,
+		image: IMG5,
+		title: 'Calculator React',
+		github: 'https://github.com/Nylander26/react-calculator',
+		demo: 'https://nylander26.github.io/react-calculator/'
 	}
 ]
 
@@ -55,7 +63,7 @@ const Portfolio = () => {
 								</div>
 								<h3>{title}</h3>
 								<div className="portfolio__item-cta">
-									<a href={github} className='btn btn-primary'>Github</a>
+									<a href={github} className='btn btn-primary' target="_blank">Github</a>
 									{
 									demo === "" ? <a href={demo} className='btn-none' target='_blank' rel="noreferrer">Live Demo</a> : 
 									<a href={demo} className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>

@@ -40,9 +40,10 @@ const About = () => {
           </div>
 
           <p>
-            I'm a FullStack Developer, i've knowledge on the basis of programming as well the most known languages in this field as 
-            it is HTML5, CSS3, JavaScript, PHP, i've done some personal projects with Laravel, NodeJS and React, i'm excited to keep learning 
-            and getting over myself in this field
+          As a junior full-stack developer with experience in HTML, CSS, JavaScript, PHP, React, NodeJS, MySQL, and MongoDB, i have a strong foundation for building robust and dynamic web applications. 
+          My skills in front-end technologies such as HTML, CSS, and JavaScript enable me to create intuitive user interfaces, while mine expertise in back-end technologies such as PHP, NodeJS, MySQL, and MongoDB 
+          empowers me to design and develop scalable server-side applications. With mine familiarity in React, i can build powerful web applications with a modular architecture and reusable components. 
+          Overall, mine well-rounded experience makes me an asset to any team looking for a talented and adaptable junior full-stack developer.
           </p>
           <div className='center__btn__about'>
             <a href="#contact" className='btn btn-primary'>Let`s Talk</a>
