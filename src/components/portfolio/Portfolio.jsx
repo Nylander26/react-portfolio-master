@@ -5,7 +5,6 @@ import IMG2 from '../../assets/foro.png'
 import IMG3 from '../../assets/gestor_fotos.jpg'
 import IMG4 from '../../assets/conectax.png'
 import IMG5 from '../../assets/calculator.png'
-// import IMG5 from '../../assets/portfolio5.png'
 // import IMG6 from '../../assets/portfolio6.jpg'
 
 
