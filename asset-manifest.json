@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.bf7fbb9b.css",
-    "main.js": "/react-portfolio/static/js/main.539cd2a0.js",
+    "main.js": "/react-portfolio/static/js/main.01aa329d.js",
     "static/media/www-amico (1).png": "/react-portfolio/static/media/www-amico (1).cf55cb8bac669a9c661d.png",
     "static/media/Firmware-amico (2).png": "/react-portfolio/static/media/Firmware-amico (2).65c2e671de12ff271d45.png",
     "static/media/CV Wolfgang.pdf": "/react-portfolio/static/media/CV Wolfgang.4bfc7b851d94467c7f90.pdf",
     "static/media/calculator.png": "/react-portfolio/static/media/calculator.033c9dd3d3e3340ee9cf.png",
     "index.html": "/react-portfolio/index.html",
     "main.bf7fbb9b.css.map": "/react-portfolio/static/css/main.bf7fbb9b.css.map",
-    "main.539cd2a0.js.map": "/react-portfolio/static/js/main.539cd2a0.js.map"
+    "main.01aa329d.js.map": "/react-portfolio/static/js/main.01aa329d.js.map"
   },
   "entrypoints": [
     "static/css/main.bf7fbb9b.css",
-    "static/js/main.539cd2a0.js"
+    "static/js/main.01aa329d.js"
   ]
 }
